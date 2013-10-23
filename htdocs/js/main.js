@@ -1,6 +1,4 @@
 $(document).ready(function(){
-    
-    
     function scrolltop(item){
         $('body').animate({scrollTop: item.offset().top-100}, 500);
     }

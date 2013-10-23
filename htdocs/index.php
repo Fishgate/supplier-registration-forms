@@ -69,7 +69,7 @@
                         <input type='text' name='reg-name' id='reg-name' />
                     </span>
                     <br />
-                    <label for='reg-num'>Trading Name</label>
+                    <label for='reg-num'>Registration Number</label>
                     <span class='border-left-pink'>
                         <input type='number' name='reg-num' id='reg-num' />
                     </span>
@@ -447,7 +447,7 @@
                     <br />
                     
                     <!-- /////////////////////// Payment Details \\\\\\\\\\\ -->
-                    <div class='divider'></div>
+                    <!--<div class='divider'></div>
                     <h2 id='payment' class='white'>Payment Details</h2>
                     <p><font style='color: red;'>*</font><em>Strictly NO third party payments allowed</em></p>
                     <br />
@@ -469,7 +469,7 @@
                     <label for='acc-name'>Account Name</label>
                     <span class='border-left-orange'>
                         <input type='text' name='acc-name' id='acc-name' />
-                    </span>
+                    </span>-->
                     
                     <!-- /////////////////////// Terms & Conditions \\\\\\\\\\\ -->
                     <div class='divider'></div>
@@ -483,7 +483,7 @@
                             <ul>
                                 <li>when invoicing a Fishgate Advertising Purchase Order, tax invoices must be invoiced to Fishgate Advertising cc, VAT registration number: 4620225989</li>
                                 <li>Invoices must be emailed to accounts@fishgate.co.za to ensure payment.</li>
-                                <li>Invoices are to be send to Fishgate on or before the 25<sup>th</sup> of every month, or the closest working day before.</li>
+                                <li>Invoices are to be sent to Fishgate on or before the 25<sup>th</sup> of every month, or the closest working day before.</li>
                             </ul>
                         </li>
                         <li>No goods or services may be delivered without a Fishgate system generated Purchase Order being provided prior to such delivery.</li>
